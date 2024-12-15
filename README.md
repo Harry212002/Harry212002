@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrihari Shingetikar</h1>
-<h3 align="center">Mern Stack Developer</h3>
+<h3 align="center">Java Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harry212002&label=Profile%20views&color=0e75b6&style=flat" alt="harry212002" /> </p>
 
